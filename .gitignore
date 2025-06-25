@@ -113,6 +113,3 @@ coverage/
 playground-*.js
 test-*.js
 temp-*.js
-
-# Collab_IDE directory (appears to be duplicate/unused)
-Collab_IDE/
