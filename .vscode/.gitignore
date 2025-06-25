@@ -1,0 +1,7 @@
+# User-specific settings
+settings.json
+launch.json
+
+# Keep shared configuration
+!tasks.json
+!extensions.json
